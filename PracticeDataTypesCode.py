@@ -38,7 +38,7 @@ book_info_dict = {"title": "Python Programming", "author": "Jane Doe", "publicat
 
 print(f'Book Information: {book_info_dict}')
 
-# Task 6: Boolean Values 
+# Task 6: Boolean Values test
 
 bool_var_a = True
 
